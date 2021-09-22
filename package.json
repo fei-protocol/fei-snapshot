@@ -1,0 +1,9 @@
+{
+  "name": "fei-snapshot",
+  "scripts" : {
+  	"compile" : "npx hardhat compile"
+  },
+  "dependencies": {
+    "hardhat": "^2.6.4"
+  }
+}
