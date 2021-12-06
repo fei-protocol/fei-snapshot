@@ -17,3 +17,7 @@ Contract [StakedFeiTribeVoting.sol](https://github.com/fei-protocol/fei-snapshot
 Scales pool's TRIBE reserves by proportion of user staked TRIBE to the total supply of the LP token.
 
 Deployed at: [0x7d1fFB6E8534436e073629502297A40eA9B65D99](https://etherscan.io/address/0x7d1ffb6e8534436e073629502297a40ea9b65d99)
+
+## fTRIBE
+
+Deployed at: [0x583ff5488f90975e4f58f8b48F87272338A9119B](https://etherscan.io/address/0x583ff5488f90975e4f58f8b48F87272338A9119B)
